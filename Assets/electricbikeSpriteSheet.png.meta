@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 64dbb5cc80120b844ad6468453f4645e
+timeCreated: 1441073796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: electricbikeSpriteSheet_0
+    21300002: electricbikeSpriteSheet_1
+    21300004: electricbikeSpriteSheet_2
+    21300006: electricbikeSpriteSheet_3
+    21300008: electricbikeSpriteSheet_4
+    21300010: electricbikeSpriteSheet_5
+    21300012: electricbikeSpriteSheet_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: electricbikeSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 784
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1753
+        width: 316
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1265
+        width: 783
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1418
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1123
+        width: 142
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 828
+        width: 38
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: electricbikeSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 26
+        width: 1348
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
